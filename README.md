@@ -56,6 +56,8 @@
 </p>
 
 ---
+<img src="https://raw.githubusercontent.com/Erick-Quiroz/Erick-Quiroz/output/snake.svg" alt="Snake animation" />
+
 
 ## 🌐 Conéctate conmigo
 <p align="center">
